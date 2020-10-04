@@ -1,0 +1,4 @@
+#Sun Oct 04 18:53:23 EDT 2020
+base.0=C\:\\Users\\Cloud\\OneDrive\\Desktop\\Spencer\\Programming\\Android Programming\\Android_Apprentice_source_code_v2.0.0\\27-episode-player\\final\\PodPlay\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
